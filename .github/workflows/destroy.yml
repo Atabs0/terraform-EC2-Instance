@@ -19,7 +19,7 @@
 #       - name: Setup Terraform
 #         uses: hashicorp/setup-terraform@v1
       
-#       # ⬇️ THIS IS THE MISSING STEP!!! ⬇️
+#       # ⬇️ THIS IS THE MISSING STEP!! ! ⬇️
 #       - name: Terraform Init
 #         run: terraform init
         
